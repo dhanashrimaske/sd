@@ -1,0 +1,16 @@
+Minimum value: 1
+First Quartile (Q1) value: 2.5
+Median value: 5
+Third Quartile (Q3) value: 7.5
+Maximum value: 9
+
+Inter Quartile Range: 5
+Information about Whiskers: 
+Lower Whisker: -5
+Upper Whisker: 15
+
+Elements between lowerWhisker and q1: 1 2 
+No. of elements in the lowerWhisker: 2
+
+Elements between q3 and upperWhisker: 8 9 
+No. of elements in the upperWhisker: 2

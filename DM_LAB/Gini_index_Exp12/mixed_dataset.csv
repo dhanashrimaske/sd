@@ -1,0 +1,6 @@
+NumericAttr1,NumericAttr2,CategoricalAttr1,CategoricalAttr2,Label
+1.5,3.2,Red,Small,ClassA
+2.0,2.8,Blue,Medium,ClassB
+3.5,4.0,Green,Small,ClassA
+4.0,3.5,Red,Medium,ClassB
+2.5,2.5,Blue,Small,ClassA

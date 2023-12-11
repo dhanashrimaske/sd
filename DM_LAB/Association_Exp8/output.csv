@@ -1,0 +1,3 @@
+Association Rule: { Bread Milk } -> {Butter } , Confidence: 100%Support: 40%
+Association Rule: { Butter Milk } -> {Bread } , Confidence: 100%Support: 40%
+Association Rule: { Milk } -> {Bread Butter } , Confidence: 100%Support: 40%
